@@ -1,0 +1,8 @@
+to convert to .exe w/o cmd
+pyinstaller --onefile -w main.py
+ with cmd
+pyinstaller --onefile main.py
+
+delete build and main.sac
+nd move exe file in main directory,make zip file and use nsis to make 1 file
+installer based on zip files

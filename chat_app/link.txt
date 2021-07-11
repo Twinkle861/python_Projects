@@ -1,0 +1,13 @@
+youtube
+https://www.youtube.com/watch?v=CV7_stUWvBQ&list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5&index=4
+
+
+practcice
+1)https://pythonprogramming.net/sockets-tutorial-python-3/
+2)https://pythonprogramming.net/buffering-streaming-data-sockets-tutorial-python-3/
+3)https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
+
+
+app
+1) https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+2) https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
