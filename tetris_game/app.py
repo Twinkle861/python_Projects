@@ -1,3 +1,9 @@
+
+# #tetris in python
+# s_width-screen width
+# tetris is 10*20 grid
+# shapes=>where ever 0->block exists and diff list represent diff shapes
+
 import pygame
 import random
 
